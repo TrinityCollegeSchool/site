@@ -1,1 +1,4 @@
 This is my test text file for git.
+This is my test text file for git.
+This is my test text file for git.
+This is my test text file for git.
